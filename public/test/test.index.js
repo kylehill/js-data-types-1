@@ -5,9 +5,9 @@ describe("Assignment 05 - Fill in the _BLANK_s!", function(){
   describe("Numbers", function(){
 
     it("Addition", function(){
-      expect(2 + 3).to.equal(_BLANK_);
-      expect(1.5 + 7.25).to.equal(_BLANK_);
-      expect(100 + -50).to.equal(_BLANK_);
+      expect(2 + 3).to.equal(5);
+      expect(1.5 + 7.25).to.equal(8.75);
+      expect(100 + -50).to.equal(50);
     });
 
     it("Subtraction", function(){
